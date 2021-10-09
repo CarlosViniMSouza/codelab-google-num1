@@ -28,4 +28,4 @@
    
     O seguinte GIF animado mostra como o app funciona ao término desta parte:
 
-[Iphone X](Img1.gif)
+[IphoneX](https://github.com/CarlosViniMSouza/codelab-google-num1/blob/master/Resume_Lessons/Img1.gif)
