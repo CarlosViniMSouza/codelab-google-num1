@@ -28,4 +28,4 @@
    
     O seguinte GIF animado mostra como o app funciona ao término desta parte:
 
-    [Iphone X](Img1.gif)
+[Iphone X](Img1.gif)
