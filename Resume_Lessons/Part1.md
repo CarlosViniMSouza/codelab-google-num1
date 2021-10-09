@@ -11,10 +11,15 @@ fazer o codelab. Não é necessário ter experiência anterior com a programaç�
 _O que você aprenderá na parte 1:_
    
  ° Como criar um app do Flutter que pareça natural no iOS, no Android e na Web.
+
  ° A estrutura básica de um app do Flutter.
+
  ° Como encontrar e usar pacotes para estender a funcionalidade.
+
  ° Como usar a recarga dinâmica para ter um ciclo de desenvolvimento mais rápido.
+
  ° Como implementar um widget com estado.
+
  ° Como criar uma lista infinita de carregamento lento.
    
 Na parte 2 deste codelab, você adicionará interatividade, modificará o tema do app e acrescentará a capacidade de 
